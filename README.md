@@ -25,4 +25,4 @@ C'est un mécanisme qui limite l'accés aux ressources aux applications qui expl
 
 ## Quelle est la différence entre JSON et JSON-LD ?
 
-Json-Ld est un json plus enrichit.
+Json-Ld est un json plus enrichit (link data).
